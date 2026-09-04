@@ -1,0 +1,21 @@
+# Internal hiring brief — never commit this to the candidate repo
+design.md
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+dist/
+build/
+*.egg
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
